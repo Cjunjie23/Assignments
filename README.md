@@ -11,3 +11,4 @@ Below are the quiz on PC Assemble after our PC Assemble Lab :arrow_down:
 ## Industry Visit
 
 ## Design Thinking (Low Fidelity Prototype)
+![video alt](https://youtu.be/a2B5yjDJKkA?si=4cMBLb5KQOZhMo6a)
