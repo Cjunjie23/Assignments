@@ -4,7 +4,7 @@ This lab actually teach us to disassemble a PC then reassemble the PC.It was fun
 ![image alt](https://github.com/Cjunjie23/Assignments/blob/7f485dc6bc35e9ef188ea37e1432ac081193dea7/WhatsApp%20Image%202026-01-15%20at%2010.04.19.jpeg)
 Below are the quiz on PC Assemble after our PC Assemble Lab :arrow_down:
 
-![image alt](https://github.com/Cjunjie23/Assignments/blob/main/WhatsApp%20Image%202026-01-15%20at%2010.02.27.jpeg?raw=true)
+![Image](https://github.com/user-attachments/assets/4fdbfe05-cecc-4924-bdd1-476a30144334)
 
 ## Industry Talk
 
