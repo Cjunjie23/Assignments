@@ -9,7 +9,9 @@ Below are the quiz on PC Assemble after our PC Assemble Lab :arrow_down:
 ## Industry Talk
 
 ## Industry Visit
+Click picure to watch video now :arrow_down:
 [![Watch the video](https://img.youtube.com/vi/xbv79ZG3r8k/maxresdefault.jpg)](https://youtu.be/xbv79ZG3r8k)
 ## Design Thinking (Low Fidelity Prototype)
+Click picure to watch video now :arrow_down:
 [![Watch the video](https://img.youtube.com/vi/a2B5yjDJKkA/maxresdefault.jpg)](https://youtu.be/a2B5yjDJKkA)
 
