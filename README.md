@@ -6,19 +6,19 @@ Below are the quiz on PC Assemble after our PC Assemble Lab :arrow_down:
 
 ![Image](https://github.com/user-attachments/assets/4fdbfe05-cecc-4924-bdd1-476a30144334)
 ### Reflection
-I'm happy to learn about how the structure inside the PC not only just reading but try to disassemble and reassemble it again with my friends.
+I'm happy to learn about the structure inside the PC, not just by reading but by actually trying to disassemble and reassemble it with my friends.
 
 ## Industry Talk 1
 This the poster about the Industry talk organise by PPG
 ### Poster
 ![Image](https://github.com/user-attachments/assets/b233304b-5fc6-47e3-aca0-e7c5184b06cd)
 ### Reflection
-The talk held by PPG open my mind about the IT jobs provide the more wide market for other industries and also the ICT act importants in those IT jobs.
+The talk held by PPG opened my mind about how IT jobs exist in many other industries and also about the importance of the ICT Act in those IT jobs.
 
 ## Industry Talk 2
 ### Academic Writing:[Industry.Talk2.Report.pdf](https://github.com/user-attachments/files/24633209/Industry.Talk2.Report.pdf)
 ### Reflection
-Mr. Abdul Alim who speech for this talk explain me about how important the System Development to his past projects experienced and his advices really beneficial for me to having a mindset about the procedure of an random development project.
+Mr. Abdul Alim, who spoke for this talk, explained to me how important System Development was in his past project experience. His advice was really beneficial for me in building a mindset about the procedure of a typical development project.
 
 ## Industry Visit 1
 ### Video
@@ -27,13 +27,14 @@ Click picture to watch video now :arrow_down:
 [![Watch the video](https://img.youtube.com/vi/xbv79ZG3r8k/maxresdefault.jpg)](https://youtu.be/xbv79ZG3r8k)
 
 ### Reflection
+The visit to UTM Digital was really exciting for me and my group because it was our first industrial visit together. I learned what technologies are used by the different departments in UTM Digital and how they work. Through this talk, I also understood more about the collaboration between each department and the future plans for UTM Digital products and projects, such as UTMSmart.
 
 ## Industrial Visit 2
 ### Industrial Visit 2 Newspaper
 ![Image](https://github.com/user-attachments/assets/a9eb6f10-a0c8-40d6-8c9e-d7465075c04d)
 ![Image](https://github.com/user-attachments/assets/6988850d-38ab-4fce-81c0-f5655e9d38ed)
 ### Reflection
-This visit was fun for me to appeal that the langguages or code using by Johorport, and also the projects done by UTM Dr and senior also make me proud, the future projects of combination between Johorport with AI suprised me too.
+This visit was fun for me to see what languages or code are used by Johor Port. The projects done by the UTM doctor and seniors also made me proud. The future projects combining Johor Port with AI surprised me too
 
 ## Design Thinking (Low Fidelity Prototype)
 ### Video
@@ -46,4 +47,4 @@ Click picture to watch video now :arrow_down:
 ### Figma Link 2:https://radio-decay-38175623.figma.site
 
 ### Reflection
-This prototype and design project was an unforgetable memory of me and my groups and we were sastified the project's prototype ,look forward for the next chances for us to having project future.
+This prototype and design project was an unforgettable memory for me and my group. We were satisfied with the project's prototype and look forward to the next chance for us to have a project in the future
